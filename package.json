@@ -1,0 +1,23 @@
+{
+  "name": "install-forked",
+  "version": "0.0.31",
+  "description": "A template for HTML and CSS",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "serve": "11.2.0"
+  },
+  "dependencies": {}
+}
